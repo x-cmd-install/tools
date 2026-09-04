@@ -7,7 +7,7 @@ about:
   head: 392d188
   archived: true
   latestVersion: lsp/v0.28.0
-  collectedAt: 2026-09-04T19:28:13Z
+  collectedAt: 2026-09-04T21:03:16Z
 timeline:
   created: 2020-02-20
   lastCommit: 2023-08-29
@@ -90,6 +90,94 @@ total:
   openIssue: 86
   commit: 4309
 ---
+path: /home/runner/.x-repo/github.com/rome/tools
+collectedAt: 2026-09-04T21:03:24Z
+loc:
+  Rust:
+    code: 247412
+    comments: 7443
+    blanks: 23496
+    files: 1262
+  JavaScript:
+    code: 23134
+    comments: 1951
+    blanks: 4521
+    files: 1630
+  TypeScript:
+    code: 14197
+    comments: 1758
+    blanks: 2517
+    files: 958
+  Json:
+    code: 11764
+    comments: 0
+    blanks: 20
+    files: 451
+  Yaml:
+    code: 6297
+    comments: 0
+    blanks: 941
+    files: 4
+  Tsx:
+    code: 2567
+    comments: 36
+    blanks: 302
+    files: 50
+  Jsx:
+    code: 2007
+    comments: 62
+    blanks: 177
+    files: 134
+  Sass:
+    code: 1878
+    comments: 35
+    blanks: 360
+    files: 21
+  Toml:
+    code: 1295
+    comments: 47
+    blanks: 192
+    files: 56
+  Svg:
+    code: 265
+    comments: 4
+    blanks: 0
+    files: 20
+  Css:
+    code: 167
+    comments: 22
+    blanks: 11
+    files: 2
+  Sh:
+    code: 112
+    comments: 24
+    blanks: 33
+    files: 5
+  Dockerfile:
+    code: 8
+    comments: 0
+    blanks: 0
+    files: 1
+  PowerShell:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 12717
+    blanks: 6352
+    files: 202
+  Text:
+    code: 0
+    comments: 30
+    blanks: 0
+    files: 6
+total:
+  code: 314236
+  comments: 41043
+  blanks: 42837
+  files: 4803
 ---
 date: "2026-08-24"
 repo:
