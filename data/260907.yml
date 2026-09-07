@@ -5,7 +5,7 @@ about:
   head: 392d188
   archived: true
   latestVersion: "lsp/v0.28.0"
-  collectedAt: 2026-09-07T03:09:37Z
+  collectedAt: 2026-09-07T20:06:03Z
 timeline:
   created: 2020-02-20
   lastCommit: 2023-08-29
@@ -89,7 +89,7 @@ total:
   commit: 4309
 ---
 path: /home/runner/.x-repo/github.com/rome/tools
-collectedAt: 2026-09-07T03:10:15Z
+collectedAt: 2026-09-07T20:06:22Z
 loc:
   Rust:
     code: 247412
@@ -434,7 +434,7 @@ checks:
       - 'Warn: 0 commits out of 26 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T03:10:25+00:00
+  collectedAt: 2026-09-07T20:06:24+00:00
   platform:
     darwin/arm64:
       name:  rome_lsp-darwin-arm64.vsix
