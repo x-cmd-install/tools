@@ -7,7 +7,7 @@ Unified developer tools for JavaScript, TypeScript, and the web
 - **Latest release**: `lsp/v0.28.0` (2023-08-09)
 - **Last commit**: 2023-08-29
 - **License**: MIT
-- **Stars**: 23384 · **Forks**: 641 · **Open issues**: 1439 · **Contributors**: 224
+- **Stars**: 23382 · **Forks**: 641 · **Open issues**: 1439 · **Contributors**: 224
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/tools> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T03:21:19Z._
+_Last regenerated: 2026-09-09T18:22:53Z._
