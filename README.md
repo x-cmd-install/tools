@@ -25,11 +25,21 @@ x install tools
 - **Latest**: `lsp/v0.28.0` (2023-08-09)
 - **Last commit**: 2023-08-29
 - **Assets in release**: 6
-- **Published**: 2023-08-09T21:08:25Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [rome_lsp-darwin-arm64.vsix](https://github.com/rome/tools/releases/download/lsp/v0.28.0/rome_lsp-darwin-arm64.vsix) | 5.1 MiB | `native/darwin/arm64` |
+| [rome_lsp-darwin-x64.vsix](https://github.com/rome/tools/releases/download/lsp/v0.28.0/rome_lsp-darwin-x64.vsix) | 5.3 MiB | `native/darwin/x64` |
+| [rome_lsp-linux-arm64.vsix](https://github.com/rome/tools/releases/download/lsp/v0.28.0/rome_lsp-linux-arm64.vsix) | 5.3 MiB | `native/linux/arm64` |
+| [rome_lsp-linux-x64.vsix](https://github.com/rome/tools/releases/download/lsp/v0.28.0/rome_lsp-linux-x64.vsix) | 5.6 MiB | `other` |
+| [rome_lsp-win32-arm64.vsix](https://github.com/rome/tools/releases/download/lsp/v0.28.0/rome_lsp-win32-arm64.vsix) | 5.4 MiB | `native/win/arm64` |
+| [rome_lsp-win32-x64.vsix](https://github.com/rome/tools/releases/download/lsp/v0.28.0/rome_lsp-win32-x64.vsix) | 5.7 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 23,382 · **Forks**: 641 · **Open issues**: 1,439 · **Contributors**: 224
+- **Stars**: 23,383 · **Forks**: 641 · **Open issues**: 1,439 · **Contributors**: 224
 
 ## Totals (cumulative)
 
@@ -70,8 +80,8 @@ Lowest-scoring checks:
 Install metadata for tools lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tools` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tools.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tools.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:20:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:08:16Z._

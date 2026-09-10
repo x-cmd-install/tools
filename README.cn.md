@@ -6,7 +6,7 @@
 
 Unified developer tools for JavaScript, TypeScript, and the web
 
-![tools](https://repo.x-cmd.io/tools.svg)
+![tools](https://repo.x-cmd.io/tools.svg?lang=zh)
 
 ## 安装
 
@@ -25,11 +25,21 @@ x install tools
 - **最新版本**: `lsp/v0.28.0` (2023-08-09)
 - **最近提交**: 2023-08-29
 - **Release 含资产**: 6 个
-- **发布时间**: 2023-08-09T21:08:25Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [rome_lsp-darwin-arm64.vsix](https://github.com/rome/tools/releases/download/lsp/v0.28.0/rome_lsp-darwin-arm64.vsix) | 5.1 MiB | `native/darwin/arm64` |
+| [rome_lsp-darwin-x64.vsix](https://github.com/rome/tools/releases/download/lsp/v0.28.0/rome_lsp-darwin-x64.vsix) | 5.3 MiB | `native/darwin/x64` |
+| [rome_lsp-linux-arm64.vsix](https://github.com/rome/tools/releases/download/lsp/v0.28.0/rome_lsp-linux-arm64.vsix) | 5.3 MiB | `native/linux/arm64` |
+| [rome_lsp-linux-x64.vsix](https://github.com/rome/tools/releases/download/lsp/v0.28.0/rome_lsp-linux-x64.vsix) | 5.6 MiB | `other` |
+| [rome_lsp-win32-arm64.vsix](https://github.com/rome/tools/releases/download/lsp/v0.28.0/rome_lsp-win32-arm64.vsix) | 5.4 MiB | `native/win/arm64` |
+| [rome_lsp-win32-x64.vsix](https://github.com/rome/tools/releases/download/lsp/v0.28.0/rome_lsp-win32-x64.vsix) | 5.7 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 23,382 · **Fork**: 641 · **开放 issue**: 1,439 · **贡献者**: 224
+- **Star**: 23,383 · **Fork**: 641 · **开放 issue**: 1,439 · **贡献者**: 224
 
 ## 累计统计
 
@@ -74,4 +84,4 @@ tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:20:36Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:08:17Z._
