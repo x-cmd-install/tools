@@ -2,8 +2,8 @@
   srcname: mingw-w64-tools
   binname: mingw-w64-clang-x86_64-tools
   visiblename: mingw-w64-clang-x86_64-tools
-  version: 14.0.0.r353.g6df76fa52
-  origversion: 14.0.0.r353.g6df76fa52-2
+  version: 14.0.0.r375.g9c1abbbf5
+  origversion: 14.0.0.r375.g9c1abbbf5-1
   status: outdated
   summary: MinGW-w64 tools (mingw-w64)
   licenses:
@@ -14,8 +14,8 @@
   srcname: mingw-w64-tools
   binname: mingw-w64-clang-aarch64-tools
   visiblename: mingw-w64-clang-aarch64-tools
-  version: 14.0.0.r353.g6df76fa52
-  origversion: 14.0.0.r353.g6df76fa52-2
+  version: 14.0.0.r375.g9c1abbbf5
+  origversion: 14.0.0.r375.g9c1abbbf5-1
   status: outdated
   summary: MinGW-w64 tools (mingw-w64)
   licenses:
@@ -27,8 +27,8 @@
   srcname: mingw-w64-tools
   binname: mingw-w64-x86_64-tools
   visiblename: mingw-w64-x86_64-tools
-  version: 14.0.0.r353.g6df76fa52
-  origversion: 14.0.0.r353.g6df76fa52-2
+  version: 14.0.0.r375.g9c1abbbf5
+  origversion: 14.0.0.r375.g9c1abbbf5-1
   status: outdated
   summary: MinGW-w64 tools (mingw-w64)
   licenses:
@@ -40,8 +40,8 @@
   srcname: mingw-w64-tools
   binname: mingw-w64-i686-tools
   visiblename: mingw-w64-i686-tools
-  version: 14.0.0.r353.g6df76fa52
-  origversion: 14.0.0.r353.g6df76fa52-2
+  version: 14.0.0.r375.g9c1abbbf5
+  origversion: 14.0.0.r375.g9c1abbbf5-1
   status: outdated
   summary: MinGW-w64 tools (mingw-w64)
   licenses:
@@ -52,8 +52,8 @@
   srcname: mingw-w64-tools
   binname: mingw-w64-ucrt-x86_64-tools
   visiblename: mingw-w64-ucrt-x86_64-tools
-  version: 14.0.0.r353.g6df76fa52
-  origversion: 14.0.0.r353.g6df76fa52-2
+  version: 14.0.0.r375.g9c1abbbf5
+  origversion: 14.0.0.r375.g9c1abbbf5-1
   status: outdated
   summary: MinGW-w64 tools (mingw-w64)
   licenses:
