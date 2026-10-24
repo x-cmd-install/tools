@@ -2,8 +2,8 @@
   srcname: mingw-w64-tools
   binname: mingw-w64-clang-x86_64-tools
   visiblename: mingw-w64-clang-x86_64-tools
-  version: 14.0.0.r495.g63ebe6cdb
-  origversion: 14.0.0.r495.g63ebe6cdb-1
+  version: 14.0.0.r532.gdbbc8e99d
+  origversion: 14.0.0.r532.gdbbc8e99d-1
   status: outdated
   summary: MinGW-w64 tools (mingw-w64)
   licenses:
@@ -12,8 +12,8 @@
   srcname: mingw-w64-tools
   binname: mingw-w64-clang-aarch64-tools
   visiblename: mingw-w64-clang-aarch64-tools
-  version: 14.0.0.r495.g63ebe6cdb
-  origversion: 14.0.0.r495.g63ebe6cdb-1
+  version: 14.0.0.r532.gdbbc8e99d
+  origversion: 14.0.0.r532.gdbbc8e99d-1
   status: outdated
   summary: MinGW-w64 tools (mingw-w64)
   licenses:
@@ -44,8 +44,8 @@
   srcname: mingw-w64-tools
   binname: mingw-w64-ucrt-x86_64-tools
   visiblename: mingw-w64-ucrt-x86_64-tools
-  version: 14.0.0.r495.g63ebe6cdb
-  origversion: 14.0.0.r495.g63ebe6cdb-1
+  version: 14.0.0.r532.gdbbc8e99d
+  origversion: 14.0.0.r532.gdbbc8e99d-1
   status: outdated
   summary: MinGW-w64 tools (mingw-w64)
   licenses:
