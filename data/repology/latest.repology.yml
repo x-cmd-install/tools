@@ -18,28 +18,6 @@
   summary: MinGW-w64 tools (mingw-w64)
   licenses:
     - spdx:GPL-3.0-or-later AND LGPL-2.1-or-later
-- repo: msys2_mingw
-  subrepo: x86_64
-  srcname: mingw-w64-tools
-  binname: mingw-w64-x86_64-tools
-  visiblename: mingw-w64-x86_64-tools
-  version: 14.0.0.r495.g63ebe6cdb
-  origversion: 14.0.0.r495.g63ebe6cdb-1
-  status: outdated
-  summary: MinGW-w64 tools (mingw-w64)
-  licenses:
-    - spdx:GPL-3.0-or-later AND LGPL-2.1-or-later
-- repo: msys2_mingw
-  subrepo: i686
-  srcname: mingw-w64-tools
-  binname: mingw-w64-i686-tools
-  visiblename: mingw-w64-i686-tools
-  version: 14.0.0.r495.g63ebe6cdb
-  origversion: 14.0.0.r495.g63ebe6cdb-1
-  status: outdated
-  summary: MinGW-w64 tools (mingw-w64)
-  licenses:
-    - spdx:GPL-3.0-or-later AND LGPL-2.1-or-later
 - repo: msys2_ucrt64
   srcname: mingw-w64-tools
   binname: mingw-w64-ucrt-x86_64-tools
