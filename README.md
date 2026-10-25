@@ -50,7 +50,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,357 · **Forks**: 640 · **Open issues**: 1,439 · **Contributors**: 224
+- **Stars**: 23,355 · **Forks**: 640 · **Open issues**: 1,439 · **Contributors**: 224
 
 ## Totals (cumulative)
 
@@ -60,12 +60,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-04 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/tools). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/tools). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -95,4 +95,4 @@ Install metadata for tools lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T03:29:40Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T03:26:10Z._
